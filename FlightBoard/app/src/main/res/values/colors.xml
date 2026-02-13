@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_blue">#0770E3</color>
+    <color name="sky_dark">#05203C</color>
+    <color name="sky_red">#FF5452</color>
+    <color name="sky_teal">#0C838A</color>
+    <color name="sky_gray">#68697F</color>
+    <color name="sky_line">#CDCDD7</color>
+    <color name="sky_bg">#F1F2F8</color>
+    <color name="white">#FFFFFF</color>
+</resources>

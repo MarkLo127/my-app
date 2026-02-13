@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FlightBoard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#0770E3</item>
+        <item name="colorPrimaryVariant">#054184</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FF5452</item>
+        <item name="colorSecondaryVariant">#D32F2F</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#05203C</item>
+        <item name="android:windowBackground">#F1F2F8</item>
+    </style>
+
+</resources>
